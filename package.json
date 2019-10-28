@@ -6,6 +6,6 @@
     "apollo-server": "^2.6.3",
     "express": "^4.16.3",
     "graphql": "^14.3.1",
-    "graphql-voyager": "^1.0.0-rc.19"
+    "graphql-voyager": "^v1.0.0-rc.27"
   }
 }
